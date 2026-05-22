@@ -30,6 +30,15 @@ To recreate the development environment, you need:
 * JFreeChart dependency provided by Maven
 * SQLite JDBC driver provided by Maven
 
+## Useful Websites to Learn More
+
+I used the following websites as reference material along with material to establish initial planning.
+
+* Reading and Code Anaylsis: [https://data-flair.training/blogs/java-expense-tracker/]
+* Useful GitHub Reference I used: [https://github.com/onkar69483/Personal_Finance_Management-Java-Swing]
+* More reading and Code References: [https://codewithcurious.com/projects/personal-finance-manager-using-java/]
+* The AI I used for establishing depedencies, connection to SQLite, Password Encrypting, and package compilation: [https://gemini.google.com/app]
+
 ## Future Work
 
 The following items can be added later:
