@@ -43,6 +43,6 @@ I used the following websites as reference material along with material to estab
 
 The following items can be added later:
 
-[] Add transaction-level income/expense entries for ledger tracking.
-[] Add multiple financial goals and archived projections per user.
-[] Add a stronger account dashboard with charts for monthly spending categories.
+* [] Add transaction-level income/expense entries for ledger tracking.
+* [] Add multiple financial goals and archived projections per user.
+* [] Add a stronger account dashboard with charts for monthly spending categories.
