@@ -4,38 +4,36 @@ This is a Java program that uses Java Swing that implements a Graphic User Inter
 
 ## Instructions for Build and Use
 
-Steps to build and/or run the software:
+Steps to build and run the software:
 
-1. 
-
-2. 
+1. Install Java 11 or newer and Maven.
+2. Open a terminal in the project root.
+3. Run `mvn package`.
+4. Launch the application with:
+   `java -jar target/java-finance-tracker-1.0.0-jar-with-dependencies.jar`
+5. From then you can run the project by clicking on the executable file (works with Windows Machines, I'm pretty sure it won't work with other machines though).
 
 Instructions for using the software:
 
-1. 
-2. 
-3. 
-4. 
+1. Create a username and password on the Sign Up screen.
+2. Log in using the account info created by the user.
+3. Enter monthly income, monthly expenses, a savings goal, and a projection period in days.
+4. Click `Calculate Projection` to update the line chart and see estimated goal timelines.
+5. Click `Save To Account` to store the current finance projection for your account.
 
 ## Development Environment
 
-To recreate the development environment, you need the following software and/or libraries with the specified versions:
+To recreate the development environment, you need:
 
-* 
-* 
-
-## Useful Websites to Learn More
-
-I found these websites useful in developing this software:
-
-* Reading: [WebsiteName](Webaddress)
-
-* YouTube Video: [VideoName](Video) 
+* Java 11 or newer
+* Apache Maven
+* JFreeChart dependency provided by Maven
+* SQLite JDBC driver provided by Maven
 
 ## Future Work
 
-The following items I plan to fix, improve, and/or add to this project in the future:
+The following items can be added later:
 
-* [ ] 
-* [ ] 
-* [ ]
+[] Add transaction-level income/expense entries for ledger tracking.
+[] Add multiple financial goals and archived projections per user.
+[] Add a stronger account dashboard with charts for monthly spending categories.
